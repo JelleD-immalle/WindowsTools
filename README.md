@@ -1,4 +1,4 @@
-# WindowsTools
+# WindowsTools (Nederlands)
 # GUI-tools
 ## notepad
 - locatie: `c:\windows\notepad.exe
@@ -35,4 +35,13 @@ https://nl.wikipedia.org/wiki/AutoHotkey
 - (gemakkelijke manier: windows verkenner typen -> "ease of acces" -> gebruik de 'On Screen Board' 
 >Uitleg over OSK
 https://support.microsoft.com/en-us/windows/use-the-on-screen-keyboard-osk-to-type-ecbb5e08-5b4e-d8c8-f794-81dbf896267a
+
+## Ipconfig
+- Opdrachtregel-hulpprogramma
+- Voor Windows NT/2000/XP/Vista/7/8/10-systemen
+- Instelling van de netwerk kaart controlleren
+- Locatie: windows verkenner typen -> ipgconfig
+- (andere manier: Windows verkenner typen -> open CMD (opdrachtprompt) -> type dit: " cd \" -> daarna: "ipgconfig /all"
+>Uitleg over Ipgconfig
+https://nl.wikipedia.org/wiki/Ipconfig
 
