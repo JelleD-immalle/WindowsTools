@@ -27,3 +27,12 @@ https://www.aptech.com/third-party-applications/gui-tools/
 > Uitleg over AutoHotKey
 https://nl.wikipedia.org/wiki/AutoHotkey
 
+## OSK
+- One Screen Keyboard
+- Geen Touchscreen nodig voor dit
+- wel een muis nodig, of een andere voorwerp dat kan selecteren
+- locatie:   windows start -> settings -> ease of acces -> keyboard -> gebruik de 'On Screen Board' -> "toetsenbord komt tevoorschijn"
+- (gemakkelijke manier: windows verkenner typen -> "ease of acces" -> gebruik de 'On Screen Board' 
+>Uitleg over OSK
+https://support.microsoft.com/en-us/windows/use-the-on-screen-keyboard-osk-to-type-ecbb5e08-5b4e-d8c8-f794-81dbf896267a
+
