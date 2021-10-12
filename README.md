@@ -36,6 +36,8 @@ https://nl.wikipedia.org/wiki/AutoHotkey
 >Uitleg over OSK
 https://support.microsoft.com/en-us/windows/use-the-on-screen-keyboard-osk-to-type-ecbb5e08-5b4e-d8c8-f794-81dbf896267a
 
+# CLI-TOOLS
+
 ## Ipconfig
 - Opdrachtregel-hulpprogramma
 - Voor Windows NT/2000/XP/Vista/7/8/10-systemen
